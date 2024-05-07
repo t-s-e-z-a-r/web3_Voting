@@ -1,0 +1,10 @@
+{
+    "accounts": [
+        {
+            "balance": "100000000000000000000", 
+            "secretKey": "0x5c865f7ea9ff0d03b24a59f7d56b6bb92a5a035095e0ddaa3482504b08634a4e"
+        }
+    ],
+    "default_balance_ether": "100000000000000000000", 
+    "mnemonic": "some text here"
+}
